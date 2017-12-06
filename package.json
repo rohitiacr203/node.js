@@ -1,0 +1,12 @@
+{
+  "name": "testdb",
+  "version": "1.0.0",
+  "description": "to create the db connection",
+  "main": "index.js",
+  "repository": "https://github.com/rohitiacr203/node.js.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
